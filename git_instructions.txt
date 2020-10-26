@@ -1,0 +1,7 @@
+//To create a new branch: git branch "branch"
+//To change the branch work: git checkout "branch"
+//To add a new file to a repository: git add "filename"
+//To delete a branch: git branch -d "branch"
+//To force the delete: git branch -D "test"
+//git commit -m "Commit message"
+//git push origin "rama"
