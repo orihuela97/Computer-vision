@@ -5,3 +5,4 @@
 //To force the delete: git branch -D "test"
 //git commit -m "Commit message"
 //git push origin "rama"
+//git reset --hard HEAD~1
